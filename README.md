@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=20F7E6&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Sameer+Shedge;Full+Stack+Developer+%7C+System+Administrator;Learning+Everyday+🚀;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=20F7E6&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Sameer+Shedge;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Learning+Everyday+🚀;Welcome+to+my+GitHub!">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** and **System Administration enthusiast** currently pursuing **B.Tech in Information Technology**.  
+I'm a **Full Stack Developer** and **AI/ML Enthusiast** currently pursuing **B.Tech in Information Technology**.  
 
-I enjoy designing systems, managing deployments, working on backend logic, and building impactful applications.
+I enjoy building scalable web applications, working on backend systems, and exploring intelligent solutions using machine learning.
 
 🔍 Interests:
 
 - 🧑‍💻 Full Stack Web Development  
-- 🛠 System Administration (Linux, Windows Server, DNS, LDAP, Mail Server)
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Data Analysis & Model Building  
 - 🗃 Database Design & Optimization  
-- ☁️ Exploring DevOps Tools & Cloud Technologies  
+- ☁️ Exploring Cloud & MLOps Tools  
 
 > _"Keep building. Keep improving. Keep learning."_ 🔥
 
@@ -40,6 +41,15 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb)
 
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
 ### ⚙ Tools / IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
@@ -47,12 +57,6 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter)
 ![Postman](https://img.shields.io/badge/Postman-f76935?style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git)
-
-### 🛜 System Administration
-🔹 Windows Server  
-🔹 DNS | LDAP | Mail Server  
-🔹 AD Users & Groups  
-🔹 Network Services & Configuration  
 
 ---
 
@@ -64,10 +68,10 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 📌 My repositories include:
 - Full Stack Web Applications  
 - Node.js & Express Backends  
+- AI / ML Projects & Experiments  
 - Authentication Systems  
 - Java & Python Applications  
-- Database-driven Projects  
-- Academic & Personal Experiments  
+- Database-Driven Systems  
 
 ---
 
@@ -83,9 +87,10 @@ I enjoy designing systems, managing deployments, working on backend logic, and b
 
 ## 📬 Contact & Connect
 
-📧 Email: **siddhantshedge16@gmail.com**  
-🔗 LinkedIn: **www.linkedin.com/in/siddhant-shedge**
+📧 Email: **sameershedge77100@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/sameer-shedge-aa8b752a4**
 
 ---
 
 <p align="center">🔥 Thanks for visiting — let's connect and build something amazing! 🔥</p>
+
